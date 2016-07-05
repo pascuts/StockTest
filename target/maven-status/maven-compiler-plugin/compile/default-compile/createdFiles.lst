@@ -1,0 +1,8 @@
+com\jpmorgan\model\Stock.class
+com\jpmorgan\utils\CreateTestData.class
+com\jpmorgan\model\Trade.class
+com\jpmorgan\businessutils\StockFormulasTest.class
+com\jpmorgan\model\StockType.class
+com\jpmorgan\dao\mock\StockDaoMock.class
+com\jpmorgan\model\TradeIndicator.class
+com\jpmorgan\businessutils\StockFormulas$1.class

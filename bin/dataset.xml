@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<dataset>
+  <EMPLOYEE employee_uid='1' 
+            start_date='2001-01-01'			
+            first_name='Drew' ssn='000-29-2030' 
+            last_name='Smith' />
+
+  <EMPLOYEE employee_uid='2' 
+            start_date='2002-04-04'			
+            first_name='Nick' ssn='000-90-0000' 
+            last_name='Marquiss' />
+
+  <EMPLOYEE employee_uid='3' 
+            start_date='2003-06-03'			
+            first_name='Jose' ssn='000-67-0000' 
+            last_name='Whitson' />
+</dataset>
